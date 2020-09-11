@@ -1,3 +1,3 @@
-def using_times
-	7. times {puts "Wingardium Leviosa."}
+def using_times (phrase)
+	7. times {puts phrase "Wingardium Leviosa."}
 end
