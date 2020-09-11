@@ -1,7 +1,6 @@
 def using_times
-  7.times do
+  7.times block
     puts "Wingardium Leviosa."
-    block
   end
 
 end
