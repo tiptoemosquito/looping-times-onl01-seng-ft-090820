@@ -1,5 +1,5 @@
-def using_times block
+def using_times (block)
 	7. times do
-    puts "Wingardium Leviosa." -0
+    puts "Wingardium Leviosa."
   end
 end
